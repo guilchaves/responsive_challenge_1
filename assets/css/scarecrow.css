@@ -2,3 +2,11 @@
   width: 539px;
   height: 447px;
 }
+
+@media (min-width: 800px) {
+  .scarecrow {
+    width: 400px;
+    height: 317px;
+    margin-left: 24px;
+  }
+}

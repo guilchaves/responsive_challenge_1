@@ -6,3 +6,17 @@
   margin-top: 200px;
   margin-left: 77px;
 }
+
+@media (min-width: 800px) {
+  .container {
+    margin-top: 84px;
+    margin-left: 0;
+  }
+}
+
+@media (max-width: 480px) {
+  .container {
+    margin-top: 84px;
+    margin-left: 0;
+  }
+}
