@@ -1,21 +1,21 @@
 footer {
-  height: 17px;
+  height: 1em;
 
   font-family: Montserrat;
-  font-size: 14px;
+  font-size: 0.825em;
   font-style: normal;
   font-weight: 500;
-  line-height: 17px;
-  letter-spacing: 0em;
+  line-height: 1em;
   text-align: center;
-  margin-top: 308px;
-  margin-bottom: 24px;
+  line-height: 0;
+  margin-top: 19.25em;
+  margin-bottom: 1.5em;
 
   color: #bdbdbd;
 }
 
 @media (max-width: 480px) {
   .footer {
-    margin-top: 114px;
+    margin-top: 7.125em;
   }
 }
