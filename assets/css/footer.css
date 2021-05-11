@@ -1,4 +1,4 @@
-/* footer {
+footer {
   height: 17px;
 
   font-family: Montserrat;
@@ -9,6 +9,13 @@
   letter-spacing: 0em;
   text-align: center;
   margin-top: 308px;
+  margin-bottom: 24px;
 
   color: #bdbdbd;
-} */
+}
+
+@media (max-width: 480px) {
+  .footer {
+    margin-top: 114px;
+  }
+}
