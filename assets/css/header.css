@@ -1,14 +1,23 @@
 header {
-  width: 133px;
   height: 25px;
   margin-top: 40px;
   margin-left: 77px;
+  position: relative;
 
   font-family: 'Space Mono', monospace;
   font-style: normal;
   font-weight: 700;
   font-size: 24px;
   line-height: 25px;
-  letter-spacing: -0.08%;
+  letter-spacing: -0.08em;
   text-transform: uppercase;
+
+  color: #333333;
+}
+
+@media (max-width: 800px) {
+  header {
+    margin-top: 20px;
+    margin-left: 24px;
+  }
 }
