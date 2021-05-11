@@ -27,7 +27,7 @@
 ## Table of Contents
 
 - [Overview](#overview)
-  - [Built With](#built-with)
+- [Built With](#built-with)
 - [Contact](#contact)
 - [Acknowledgements](#acknowledgements)
 
@@ -35,7 +35,7 @@
 
 ## Overview
 
-![screenshot](https://user-images.githubusercontent.com/16707738/92399059-5716eb00-f132-11ea-8b14-bcacdc8ec97b.png)
+![screenshot](https://i.ibb.co/DGx4cFC/frame-generic-dark.png)
 
 Static vanilla webpage built as a challenge from <a href="https://devchallenges.io/challenges/wBunSb7FPrIepJZAg0sY">devchallenges.io</a>. The idea was to pick a simple project and built it using the best coding practices.
 
@@ -56,7 +56,7 @@ Static vanilla webpage built as a challenge from <a href="https://devchallenges.
 
 This application/site was created as a submission to a [DevChallenges](https://devchallenges.io/challenges) challenge. The [challenge](https://devchallenges.io/challenges/wBunSb7FPrIepJZAg0sY) was to build an application to complete the given user stories.
 
-## Contact- 
+## Contact
 
 - GitHub [@guilchaves](https://https://github.com/guilchaves)
 - Twitter [@guilchvs](https://twitter.com/guilchvs)
