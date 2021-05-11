@@ -1,0 +1,9 @@
+.container {
+  font-family: 'Space Mono', monospace;
+
+  display: flex;
+  flex-direction: row;
+  margin-top: 200px;
+  margin-left: 77px;
+  margin-right: 243px;
+}
