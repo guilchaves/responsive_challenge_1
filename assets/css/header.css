@@ -1,0 +1,14 @@
+header {
+  width: 133px;
+  height: 25px;
+  margin-top: 40px;
+  margin-left: 77px;
+
+  font-family: 'Space Mono', monospace;
+  font-style: normal;
+  font-weight: 700;
+  font-size: 24px;
+  line-height: 25px;
+  letter-spacing: -0.08%;
+  text-transform: uppercase;
+}
