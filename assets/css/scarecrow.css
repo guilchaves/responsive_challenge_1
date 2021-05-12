@@ -1,12 +1,12 @@
 .scarecrow {
-  width: 33.7em;
-  height: 28em;
+  width: 33.7rem;
+  height: 28rem;
 }
 
 @media (max-width: 800px) {
   .scarecrow {
-    width: 25em;
-    height: 19.8125em;
-    margin-left: 1.25em;
+    width: 25rem;
+    height: 19.8125rem;
+    margin-left: 1.25rem;
   }
 }
