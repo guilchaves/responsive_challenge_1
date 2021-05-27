@@ -1,26 +1,3 @@
-/**
-*font-family: 'Inconsolata', monospace;
-*
-*/
-@import url('https://fonts.googleapis.com/css2?family=Inconsolata');
-
-/**
-*font-family: 'Space Mono', monospace;
-*
-*/
-@import url('https://fonts.googleapis.com/css2?family=Space+Mono');
-
-/**
-*font-family: 'Montserrat', sans-serif;
-*
-*/
-@import url('https://fonts.googleapis.com/css2?family=Montserrat');
-
-body {
-  font-family: Roboto, sans-serif;
-  font-size: 16px;
-}
-
 html,
 body,
 div,

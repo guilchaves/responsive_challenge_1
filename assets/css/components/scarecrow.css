@@ -1,0 +1,13 @@
+.scarecrow__container {
+  box-sizing: border-box;
+
+  margin-top: 4rem;
+  margin-left: 2.75rem;
+  margin-right: 2.75rem;
+}
+
+.scarecrow__logo {
+  max-width: 540px;
+
+  width: 100%;
+}
