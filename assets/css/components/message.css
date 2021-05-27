@@ -1,0 +1,47 @@
+.message {
+  margin-top: 3.75rem;
+  margin-left: 1.125rem;
+
+  font-family: var(--space-mono);
+
+  min-width: 350px;
+  max-width: 550px;
+}
+
+.message__title {
+  font-weight: 700;
+  font-size: 3rem;
+  line-height: 4.5rem;
+  color: var(--grey-1);
+}
+
+.message__text {
+  font-weight: 400;
+  font-size: 1.125rem;
+  line-height: 1.625rem;
+  color: var(--grey-2);
+
+  margin-top: 2rem;
+  margin-bottom: 4rem;
+
+  max-width: 381px;
+}
+
+.message__btn {
+  text-transform: uppercase;
+
+  box-sizing: border-box;
+  background-color: var(--grey-1);
+  color: var(--white);
+
+  font-family: var(--space-mono);
+  font-weight: 700;
+  font-size: 0.8rem;
+
+  height: 4.25rem;
+  width: 13.5rem;
+
+  border-style: none;
+  border: none;
+  cursor: pointer;
+}
