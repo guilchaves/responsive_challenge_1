@@ -1,0 +1,23 @@
+/**
+*font-family: 'Inconsolata', monospace;
+*
+*/
+@import url('https://fonts.googleapis.com/css2?family=Inconsolata');
+
+/**
+*font-family: 'Space Mono', monospace;
+*
+*/
+@import url('https://fonts.googleapis.com/css2?family=Space+Mono');
+
+/**
+*font-family: 'Montserrat', sans-serif;
+*
+*/
+@import url('https://fonts.googleapis.com/css2?family=Montserrat');
+
+:root {
+  --inconsolata: 'Inconsolata', monospace;
+  --space-mono: 'Space Mono', monospace;
+  --montserrat: 'Montserrat', sans-serif;
+}
