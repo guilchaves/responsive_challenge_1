@@ -45,3 +45,15 @@
   border: none;
   cursor: pointer;
 }
+
+@media (min-width: 1024px) {
+  .message__title {
+    font-size: 4rem;
+    line-height: 5.875rem;
+  }
+
+  .message__text {
+    font-size: 1.5rem;
+    line-height: 2.125rem;
+  }
+}

@@ -12,3 +12,9 @@
 .foot span {
   font-weight: 700;
 }
+
+@media (min-width: 1024px) {
+  .foot {
+    margin-top: 19.25rem;
+  }
+}
