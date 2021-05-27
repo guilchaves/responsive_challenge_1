@@ -20,4 +20,9 @@
   --inconsolata: 'Inconsolata', monospace;
   --space-mono: 'Space Mono', monospace;
   --montserrat: 'Montserrat', sans-serif;
+
+  --grey-1: #333333;
+  --grey-2: #4f4f4f;
+  --light-grey: #bdbdbd;
+  --white: #ffffff;
 }
