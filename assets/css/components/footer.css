@@ -1,4 +1,4 @@
-.foot {
+.footer {
   margin-top: 7rem;
   margin-bottom: 1.5rem;
   text-align: center;
@@ -9,8 +9,13 @@
   color: var(--light-grey);
 }
 
-.foot span {
+.footer__info {
+  font-weight: 500;
+}
+
+.footer__user {
   font-weight: 700;
+  text-decoration: underline;
 }
 
 @media (min-width: 1024px) {
