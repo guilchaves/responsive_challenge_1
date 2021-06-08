@@ -39,7 +39,7 @@
 
 Static vanilla webpage built as a challenge from <a href="https://devchallenges.io/challenges/wBunSb7FPrIepJZAg0sY">devchallenges.io</a>. The idea was to pick a simple project and built it using the best coding practices.
 
-- Responsive units were use it.
+- Responsive units were used.
 - The webpage is responsive for tablet and smartphone screens.
 - BEM method of css architecture implemented.
 
